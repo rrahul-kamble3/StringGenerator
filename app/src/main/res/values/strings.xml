@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StringGenerator</string>
+    <string name="db_name">iavDB</string>
+    <string name="empty_data">No data found</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_length">Enter String Length</string>
+    <string name="generate_string">Generate String</string>
+    <string name="deleted">Record deleted</string>
+</resources>
